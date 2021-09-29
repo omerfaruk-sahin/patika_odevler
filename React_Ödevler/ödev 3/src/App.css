@@ -1,0 +1,66 @@
+body {
+  background-image:url(https://resminiz.com/resimler/e1e3364bcbb6fbf84a04c8f3d2dc858f.md.jpg) ;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover ;
+  height:100vh;
+  opacity:100%;
+  
+}
+
+.htc {
+  color: orangered;
+  font-size:500%;
+}
+.dawwd{
+  color:orangered;
+  font-size: 100%;
+  margin:4px;
+  width: 25%;
+  text-align: center;
+  background-color: rgb(69, 73, 75);
+  border-radius: 30px;
+
+
+}
+.conts{
+  background-color: transparent;
+  margin-top:6%;
+  border-radius: 40px;
+  background: rgba(0, 0,0, .4);
+  height: 560px;
+  
+}
+
+.max{
+  color:red;
+  font-weight: 500;
+  font-size: larger;
+}
+.jpg{
+  max-width:75%;
+  height: auto;
+}
+.mxx{
+  margin: auto;
+  color: yellowgreen;
+}
+.sck{
+  color: orangered;
+  font-weight: 700;
+  font-size: larger;
+}
+
+.min{
+  color:blue;
+  font-weight: 500;
+  font-size: larger;
+}
+.krt{
+  height: 110%;    
+  border-radius: 10px;
+  border-color: rgb(69, 73, 75);
+  background-color: rgba(0, 0,0, .4);
+
+}
