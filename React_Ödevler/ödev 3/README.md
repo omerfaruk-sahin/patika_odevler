@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-(https://github.com/omerfaruk-sahin/patika_odevler/blob/main/React_%C3%96devler/%C3%B6dev%203/src/img/app.png "Logo Title Text 1")
+![](https://github.com/omerfaruk-sahin/patika_odevler/blob/main/React_%C3%96devler/%C3%B6dev%203/src/img/app.png "Logo Title Text 1")
 ## Available Scripts
 
 In the project directory, you can run:
