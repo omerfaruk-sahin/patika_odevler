@@ -28,14 +28,14 @@ test("Emoji list test",()=>{
   expect(screen.getByAltText("Kissing Heart")).toBeInTheDocument()
   expect(screen.getByAltText("Yum")).toBeInTheDocument()
 })
-test("filter testing",()=> {
+test("Filter testing",()=> {
   let inputt=screen.getByLabelText(/input/i)
   userEvent.type(inputt,"Kissing")
   expect(screen.getByAltText("Kissing Heart")).toBeInTheDocument()
   expect(screen.getByAltText("Kissing Smiling Eyes")).toBeInTheDocument()
  
 })
-test("Emoji is copied", () => {
+test("Copied testing", () => {
   const copy = new Clipboard(".copy-to-clipboard");
   const emoji = screen.getByTitle("emoji-results");
   userEvent.click(emoji[1]);
