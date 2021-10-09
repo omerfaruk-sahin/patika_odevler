@@ -13,7 +13,7 @@ fs.appendFile('employees.json','\n{"name": "Employee 2 Name", "salary": 5000}' ,
     if (err) console.log(err);
     console.log("Dosya güncellendi")
 })
-fs.unlink('employees.json',(err,data)=>{
+fs.unlink('employees.json',(err)=>{
     if (err) console.log(err);
     console.log("Dosya silindi")
 })
